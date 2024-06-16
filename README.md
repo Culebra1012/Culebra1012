@@ -27,6 +27,8 @@
 <img width="45" height="45" src="https://img.icons8.com/color/45/postgreesql.png" alt="postgreesql"/>
 <img src="https://img.icons8.com/fluency/48/FFFFFF/javascript.png"/><img src="https://img.icons8.com/fluency/48/FFFFFF/typescript.png"/><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAACJklEQVR4nGNgGB4gLW0ma0XPoq6mKasOtM1ct6uie2FnTHE3d2nLnKSyjnlF8fX1HMjqQ0NXMZd0zEsvbJtVwFBY2MvZOGnF4fmbjv7snrvpEgiD2A0Tlh4tb58bM33V3g/1E5fuAmmCGVDTt2jZnHUHv5V3zi9lqOlbMm3+piMgTgNMQVnX/OYFG49+r+1fPKWie+GEhZuO/67pXTQJJFfZMb9swcZj36v7Fq8BK26bue5K64y1+9G91TZjzYH2mesu19fXMzVMXLZ77pqDn4rb5nROXb7rcfO01SfT6mdygRX2Ltj6oLpv0amyjrmtyBgkBpIDqUlunS3eNWfj1Xkbj/yctGTH/cKmmbpwm/rnb32wZOvJ/ws3HcfAbdPXPIOo+s9Y179k17r9l/43TV55IrS+ng1uQPecjXfqJizbmVIx0RgbBvu7e0HLok1Hf1V0Lji/cPPRnzV9i+fBDWicsmLnlGU7HxbWT1GBiRXVz9Rombb6WHHbnENFHfNcZ6za96JpyopDubkT2ev6l26Zv+HI14qO+XlgxRVtM02nLtv1vG/B1hs1fUumVvctnD9x0fZb01bseZbXMisQ5PfeBVvu5jVNVwWpTyrt5G2bue70xMU7HxW1zzEEG1LSNtujfca6U7PXHvwyc/X+j+0z154o71roX9AyY07L9DV7yjrmuSPHUFXXfIOWaau2F7XO3IAk/J8xvWaCalJ1tzwpqXjgAQCUWy9zDelwBAAAAABJRU5ErkJggg==">
 <img width="48" height="48" src="https://img.icons8.com/nolan/48/astro.png" alt="astro"/>
+<img width="45" height="45" src="https://img.icons8.com/color/45/amazon-web-services.png" alt="amazon-web-services"/>
+
 
 
 <a name="learning-next"></a>
