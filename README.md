@@ -6,7 +6,7 @@
  ## About me 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2CB&lines=🎧What%2C+I'm+hearing)
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pablitodres&cover_image=true&theme=novatorem&bar_color=00f552&bar_color_cover=false)<img src="https://i.ibb.co/yqktrgy/spotify-2.png" alt="Spotify"/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pablitodres&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 - 🧑‍💻 I am a Full stack Developer.
 - :earth_americas: I am from Medellin - Colombia.      
 - 🎬 I like to watch series.
