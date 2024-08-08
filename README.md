@@ -2,6 +2,9 @@
 # <h1>Hi!, I'm <a href="https://github.com/Culebra1012">Sebastián</a><img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
+<a href="https://discord.com/users/426023966184964096"><img src="https://lanyard.cnrad.dev/api/426023966184964096?hideStatus=true&hideActivity=true&hideStatus=true" /></a>
+
+
 
  ## About me 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2CB&lines=🎧What%2C+I'm+hearing)
