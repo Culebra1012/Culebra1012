@@ -2,10 +2,12 @@
 # <h1>Hi!, I'm <a href="https://github.com/Culebra1012">Sebastián</a><img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
- ## About me 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFEE10&lines=🚀My+activity+in+Discord)
 
-<a href="https://discord.com/users/426023966184964096"><img src="https://lanyard.cnrad.dev/api/426023966184964096?hideStatus=true&hideActivity=true&hideStatus=true&hideActivity=whenNotUsed&bg=0D1117&showDisplayName=true&borderRadius=30px" /></a>
+<a href="https://discord.com/users/426023966184964096"><img src="https://lanyard.cnrad.dev/api/426023966184964096?hideStatus=true&hideActivity=true&hideStatus=true&hideActivity=whenNotUsed&bg=171715&showDisplayName=true&borderRadius=30px" /></a>
+
+
+ ## About me 
 - 🧑‍💻 I am a Full stack Developer.
 - :earth_americas: I am from Medellin - Colombia.      
 - 🎬 I like to watch series.
