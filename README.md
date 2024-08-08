@@ -3,9 +3,9 @@
 </h1>
 
  ## About me 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2CB&lines=🎧What%2C+I'm+hearing)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFEE10&lines=🚀My+activity+in+Discord)
 
-<a href="https://discord.com/users/426023966184964096"><img src="https://lanyard.cnrad.dev/api/426023966184964096?hideStatus=true&hideActivity=true&hideStatus=true&hideActivity=whenNotUsed&bg=0D1117" /></a>
+<a href="https://discord.com/users/426023966184964096"><img src="https://lanyard.cnrad.dev/api/426023966184964096?hideStatus=true&hideActivity=true&hideStatus=true&hideActivity=whenNotUsed&bg=0D1117&showDisplayName=true&borderRadius=30px" /></a>
 - 🧑‍💻 I am a Full stack Developer.
 - :earth_americas: I am from Medellin - Colombia.      
 - 🎬 I like to watch series.
