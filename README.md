@@ -2,14 +2,10 @@
 # <h1>Hi!, I'm <a href="https://github.com/Culebra1012">Sebastián</a><img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-<a href="https://discord.com/users/426023966184964096"><img src="https://lanyard.cnrad.dev/api/426023966184964096?hideStatus=true&hideActivity=true&hideStatus=true" /></a>
-
-
-
  ## About me 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2CB&lines=🎧What%2C+I'm+hearing)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pablitodres&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://discord.com/users/426023966184964096"><img src="https://lanyard.cnrad.dev/api/426023966184964096?hideStatus=true&hideActivity=true&hideStatus=true&hideActivity=whenNotUsed" /></a>
 - 🧑‍💻 I am a Full stack Developer.
 - :earth_americas: I am from Medellin - Colombia.      
 - 🎬 I like to watch series.
