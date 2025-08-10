@@ -45,7 +45,9 @@
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/FFFFFF/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/office/48/FFFFFF/react.png"/>
   <img width="48" height="48" src="https://img.icons8.com/nolan/48/astro.png"/>
-  <img src="https://img.icons8.com/color/48/ionic.png"/>
+  <img src="https://img.icons8.com/color/48/FFFFFF/ionic.png"/>
+  <img src="https://img.icons8.com/color/48/FFFFFF/nextjs.png"/>
+
 
   <!-- Backend -->
   <img src="https://img.icons8.com/fluency/48/FFFFFF/node-js.png"/>
@@ -57,16 +59,22 @@
   <!-- Databases -->
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
 
   <!-- Cloud & DevOps -->
   <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
   <img src="https://img.icons8.com/color/48/firebase.png"/>
   <img src="https://img.icons8.com/color/48/FFFFFF/heroku.png"/>
   <img src="https://img.icons8.com/ios-filled/48/ssh.png"/>
+  <img src="https://img.icons8.com/color/48/docker.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/color/48/github--v1.png"/>
 
   <!-- Otros -->
   <img src="https://img.icons8.com/color/48/discord--v2.png"/>
+  <img src="https://img.icons8.com/color/48/figma.png"/>
 </p>
+
 
 
 ---
@@ -75,7 +83,8 @@
 
 <p>
   <img src="https://img.icons8.com/color/48/FFFFFF/vue-js.png"/>
-  <img src="https://img.icons8.com/fluency/48/FFFFFF/ruby-gemstone.png"/>
+  <img src="https://img.icons8.com/color/48/golang.png"/>
+  <img src="https://img.icons8.com/color/48/ruby-programming-language.png"/>
 </p>
 
 ---
