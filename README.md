@@ -1,4 +1,4 @@
-![Quote](https://i.ibb.co/MBZWz1J/It-s-all-about-Hard-work-not-luck-72-20-in-60-20-in.png)
+![Quote](https://i.ibb.co/d4L2DWB3/Internal-Page-banner-white.gif)
 
 <h1 align="center">
   Hi! I'm <a href="https://github.com/Culebra1012">Sebastián</a> 
