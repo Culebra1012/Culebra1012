@@ -15,19 +15,6 @@
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me  
-- 🧑‍💻 Full Stack Developer.  
-- 🌍 From Medellín, Colombia.  
-- 🎬 Series enthusiast.  
-- 🎵 Music lover.  
-- 🕹️ Gamer at heart.  
-- 🔵 Favorite color: Blue.  
-- 🍫 Chocolate addict.  
-
----
-
 ## 🛠️ Tech & Tools I Use  
 
 <p>
