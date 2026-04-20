@@ -8,7 +8,7 @@
 
 ```bash
 $ whoami
-> Sebastián — CTO @ Key Lab
+> Sebastián — CTO & Co-Founder @ Key Lab
 > Medellín, Colombia 🇨🇴
 ```
 
