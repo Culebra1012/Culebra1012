@@ -19,12 +19,24 @@ $ cat about.txt
 ```
 
 ```bash
-$ ls ./products           
-> colombia-invierte/
-> deal-custody/  
-> stoic-silence/
-> factoract/    
-> client-projects/  
+$ ls ./products
+> # Internal
+> colombia-invierte/     
+> deal-custody/          
+> stoic-silence/       
+> factoract/             
+> bloki/               
+
+> # Clients
+> touchup/              
+> feelfree/             
+> obsession/             
+> blockenfy/           
+> planisferio-viajes/   
+> arvum/                
+> grupo-invescob/      
+> interbienes/          
+> grupo-montecielo/    
 ```
 
 ```bash
