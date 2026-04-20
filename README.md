@@ -1,13 +1,3 @@
-![Quote](https://i.ibb.co/d4L2DWB3/Internal-Page-banner-white.gif)
-
-<h1 align="center">
-  Hi! I'm <a href="https://github.com/Culebra1012">Sebastián</a> 
-  <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFEE10&center=true&vCenter=true&width=450&lines=🚀+My+activity+in+Discord" />
-</p>
 
 <p align="center">
   <a href="https://discord.com/users/426023966184964096">
@@ -15,64 +5,75 @@
   </a>
 </p>
 
-## 🛠️ Tech & Tools I Use  
 
-<p>
-  <!-- IDEs -->
-  <img src="https://img.icons8.com/color/48/FFFFFF/webstorm.png"/>
-  <img src="https://img.icons8.com/color/48/FFFFFF/visual-studio-code-2019.png"/>
+```bash
+$ whoami
+> Sebastián — CTO @ Key Lab
+> Medellín, Colombia 🇨🇴
+```
 
-  <!-- Frontend -->
-  <img src="https://img.icons8.com/color/48/FFFFFF/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/FFFFFF/css3.png"/>
-  <img src="https://img.icons8.com/color/48/FFFFFF/sass.png"/>
-  <img src="https://img.icons8.com/color/48/FFFFFF/tailwindcss.png"/>
-  <img src="https://img.icons8.com/fluency/48/FFFFFF/javascript.png"/>
-  <img src="https://img.icons8.com/fluency/48/FFFFFF/typescript.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/FFFFFF/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/>
-  <img src="https://img.icons8.com/office/48/FFFFFF/react.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/nolan/48/astro.png"/>
-  <img src="https://img.icons8.com/color/48/FFFFFF/ionic.png"/>
-  <img src="https://img.icons8.com/color/48/FFFFFF/nextjs.png"/>
+```bash  
+$ cat about.txt
+> We're a software agency building AI, Web3, and SaaS products.
+> We don't just consult — we ship.
+```
 
+```bash
+$ ls ./products           
+> colombia-invierte/
+> deal-custody/  
+> stoic-silence/
+> factoract/    
+> client-projects/  
+```
 
-  <!-- Backend -->
-  <img src="https://img.icons8.com/fluency/48/FFFFFF/node-js.png"/>
-  <img src="https://img.icons8.com/color/48/FFFFFF/nestjs.png"/>
-  <img src="https://img.icons8.com/color/48/FFFFFF/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/FFFFFF/python.png"/>
-  <img src="https://img.icons8.com/color/48/FFFFFF/express.png"/>
+```bash
+$ cat stack.json
+{
+  "languages": [
+    "TypeScript", "JavaScript", "Python", "PHP", "Java", "Lua", "Solidity"
+  ],
 
-  <!-- Databases -->
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  "frontend": [
+    "Next.js", "React", "Angular", "TailwindCSS", "Framer Motion"
+  ],
 
-  <!-- Cloud & DevOps -->
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
-  <img src="https://img.icons8.com/color/48/firebase.png"/>
-  <img src="https://img.icons8.com/color/48/FFFFFF/heroku.png"/>
-  <img src="https://img.icons8.com/ios-filled/48/ssh.png"/>
-  <img src="https://img.icons8.com/color/48/docker.png"/>
-  <img src="https://img.icons8.com/color/48/git.png"/>
-  <img src="https://img.icons8.com/color/48/github--v1.png"/>
+  "backend": [
+    "NestJS", "Node.js", "Express", "Spring Boot", "Laravel"
+  ],
 
-  <!-- Otros -->
-  <img src="https://img.icons8.com/color/48/discord--v2.png"/>
-  <img src="https://img.icons8.com/color/48/figma.png"/>
-</p>
+  "databases": [
+    "PostgreSQL", "MySQL", "MongoDB", "Supabase", "Firebase"
+  ],
 
+  "orm_and_patterns": [
+    "Prisma", "DAO Pattern", "Repository Pattern", "MVC", "Hexagonal Architecture"
+  ],
 
+  "messaging_and_queues": [
+    "RabbitMQ", "WebSockets", "WhatsApp Business API"
+  ],
 
----
+  "ai_and_ml": [
+    "OpenAI", "Anthropic Claude", "RAG (Vector Search)", "pgvector",
+    "Pinecone", "LangChain", "AI Agents"
+  ],
 
-## 📚 Learning Next  
+  "infra_and_devops": [
+    "Docker", "Railway", "AWS EC2", "AWS S3", "AWS Lambda",
+    "Firebase Hosting", "Nginx", "CI/CD", "GitHub Actions"
+  ],
 
-<p>
-  <img src="https://img.icons8.com/color/48/FFFFFF/vue-js.png"/>
-  <img src="https://img.icons8.com/color/48/golang.png"/>
-  <img src="https://img.icons8.com/color/48/ruby-programming-language.png"/>
-</p>
+  "web3_and_blockchain": [
+    "Solidity", "Thirdweb", "Ethers.js", "Polygon",
+    "Celo", "Smart Contracts", "Embedded Wallets"
+  ]
+}
+```
 
----
+```bash
+$ contact --agency
+> 🌐 https://keylab.tech
+> 📬 sebastian@keylab.tech
+```
 ![](https://komarev.com/ghpvc/?username=Culebra1012-github-Culebra1012&color=blue&style=flat-square)
