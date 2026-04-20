@@ -24,13 +24,13 @@ $ ls ./products
 > colombia-invierte/     
 > deal-custody/          
 > stoic-silence/       
-> factoract/             
-> bloki/               
+> factoract/                          
 
 > # Clients
 > touchup/              
 > feelfree/             
-> obsession/             
+> obsession/
+> bloki/               
 > blockenfy/           
 > planisferio-viajes/   
 > arvum/                
