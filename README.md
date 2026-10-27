@@ -1,9 +1,9 @@
 
-<p align="left">
+<div align="left">
   <a href="https://discord.com/users/426023966184964096">
     <img src="https://lanyard.cnrad.dev/api/426023966184964096?hideStatus=true&hideActivity=true&bg=171715&showDisplayName=true&borderRadius=30px" />
   </a>
-</p>
+</div>
 
 <div align="left">
 
@@ -135,7 +135,7 @@ A practical stack across product engineering, AI systems, and blockchain infrast
 
 ---
 
-<div align="center">
+<div align="left">
 
 **Less hype. More engineering.**
 
